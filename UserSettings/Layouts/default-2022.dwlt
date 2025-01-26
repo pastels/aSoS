@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 772.8
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -622,9 +622,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 15.055163, y: 8.056162, z: -8.400007}
+    m_Target: {x: 31.820427, y: 27.961752, z: 33.26783}
     speed: 2
-    m_Value: {x: 15.055163, y: 8.056162, z: -8.400007}
+    m_Value: {x: 31.820427, y: 27.961752, z: 33.26783}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -670,13 +670,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.13690294, y: -0.033279955, z: 0.0047960454, w: 0.9901752}
+    m_Target: {x: 0.21085861, y: -0.30378604, z: 0.069347486, w: 0.9266971}
     speed: 2
-    m_Value: {x: 0.13688107, y: -0.033274636, z: 0.004795279, w: 0.99001694}
+    m_Value: {x: 0.21082449, y: -0.30373687, z: 0.06933626, w: 0.92654705}
   m_Size:
-    m_Target: 23.55669
+    m_Target: 3.8430471
     speed: 2
-    m_Value: 23.55669
+    m_Value: 3.8430471
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -737,10 +737,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 96}
+      scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 9e81ffffa8d50000f4d5000006d600004ed60000f0d60000
+      m_ExpandedIDs: 42d7ffff5ad8ffff60d8ffff04fbffff0c680000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -907,7 +907,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materials
+    - Assets/Corridor assets/Creature_Slider_Mutant/Animations
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -915,16 +915,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 50
   m_LastFolders:
-  - Assets/Materials
+  - Assets/Corridor assets/Creature_Slider_Mutant/Animations
   m_LastFoldersGridSize: 50
   m_LastProjectPath: C:\Users\eszto\DotU
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 102b0000
-    m_LastClickedID: 11024
-    m_ExpandedIDs: 00000000102b0000242b0000282b0000482b00004c2b0000502b0000542b0000582b00005c2b0000602b0000642b0000702b0000742b0000782b0000882b0000982b0000cc2b0000d42b0000e42b0000e82b0000f42b0000082d0000b4dd0000b6dd0000b8dd0000badd000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 98.20001}
+    m_SelectedIDs: 46730000
+    m_LastClickedID: 29510
+    m_ExpandedIDs: 000000000e71000010710000127100001471000016710000187100001a7100001c7100001e71000020710000227100002471000026710000287100002a7100002c7100002e71000030710000327100003471000036710000387100003a7100003c7100003e71000040710000ca7200003273000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -952,7 +952,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000102b0000242b0000282b0000482b00004c2b0000502b0000542b0000582b00005c2b0000602b0000642b0000702b0000742b0000782b0000882b0000982b0000cc2b0000d42b0000e42b0000e82b0000f42b0000082d0000b4dd0000b6dd0000b8dd0000badd0000
+    m_ExpandedIDs: 000000000e71000010710000127100001471000016710000187100001a7100001c7100001e71000020710000227100002471000026710000287100002a7100002c7100002e71000030710000327100003471000036710000387100003a7100003c7100003e71000040710000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
