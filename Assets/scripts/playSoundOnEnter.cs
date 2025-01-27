@@ -17,4 +17,9 @@ public class playSoundOnEnter : MonoBehaviour
     {
         source.Play();
     }
+
+void OnTriggerExit(Collider collider)
+    {
+        source.Stop();
+    }
 }
