@@ -375,6 +375,7 @@
 "Assets/prototype 1/JSLizards/Iguana/Scripts/IguanaCameraScript.cs"
 "Assets/prototype 1/JSLizards/Iguana/Scripts/IguanaCharacter.cs"
 "Assets/prototype 1/JSLizards/Iguana/Scripts/IguanaUserController.cs"
+"Assets/screenshottaker.cs"
 "Assets/scripts/movement.cs"
 "Assets/scripts/playSoundOnEnter.cs"
 -langversion:9.0
