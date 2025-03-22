@@ -370,9 +370,9 @@
 "Assets/Materials/AQUAS-Lite/Scripts/AQUAS_Lite_Camera.cs"
 "Assets/Materials/AQUAS-Lite/Scripts/AQUAS_Lite_CamNav.cs"
 "Assets/Materials/AQUAS-Lite/Scripts/AQUAS_Lite_Reflection.cs"
-"Assets/Scripts/movement.cs"
-"Assets/Scripts/playSoundOnEnter.cs"
-"Assets/Scripts/screenshottaker.cs"
+"Assets/scripts/movement.cs"
+"Assets/scripts/playSoundOnEnter.cs"
+"Assets/scripts/screenshottaker.cs"
 -langversion:9.0
 /deterministic
 /optimize+
