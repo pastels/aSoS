@@ -4,5 +4,9 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
-  m_configObjects: {}
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Sunny.unity
+    guid: ada05858275885b4585b86dbfe133f87
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: fb3950503b869d44b8dce60fba7ae46f, type: 3}
